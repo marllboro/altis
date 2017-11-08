@@ -297,7 +297,7 @@ class VirtualItems {
         variable = "lockpick";
         displayName = "STR_Item_Lockpick";
         weight = 1;
-        buyPrice = 10000;
+        buyPrice = 12000;
         sellPrice = 75;
         illegal = true;
         edible = -1;
