@@ -33,7 +33,7 @@ class ProcessAction {
         MaterialsGive[] = {{"iron_refined",1}};
         Text = "STR_Process_iron";
         //ScrollText = "Refine Iron";
-        NoLicenseCost = 1120;
+        NoLicenseCost = 2120;
     };
 	
 	class ZincIngot {
